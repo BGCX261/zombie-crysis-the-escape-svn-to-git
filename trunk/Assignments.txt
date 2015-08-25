@@ -1,0 +1,34 @@
+(Art)
+-Background Design	Lvl1 Lvl2 Lvl3
+-Character		Lvl1 Lvl2 Lvl3
+-Death Animations	Lvl1 Lvl2 Lvl3
+-Shooting		Lvl1 Lvl2 Lvl3
+-Enemies		Lvl1 Lvl2 Lvl3
+-HUD			Wayne
+-Title Screen		Wayne
+-Credits		Hyunmo
+-Transition Screens	Jared/Wayne
+
+(Programming)	
+-Character Movement	Hyunmo
+-Scrolling		Wayne
+-Shooting		Wayne
+-Bullet Collision	Wayne
+-Character Collision	Jared
+-Enemy Collision	Hyunmo
+-Enemy Movement		Hyunmo
+-Title Screen		Hyunmo
+-Score			Jared
+-Health			Wayne
+-Enemy Health		Jared
+-Credits		Hyunmo
+
+(Sound)
+-Shooting		Wayne
+-Walking		Hyunmo
+-Music			Lvl1 Lvl2 Lvl3
+-Dying			Jared
+-Credits		Hyunmo
+-Title			Wayne
+-Transition		Lvl1 Lvl2 Lvl3
+
